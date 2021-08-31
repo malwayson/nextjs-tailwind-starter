@@ -33,9 +33,9 @@ export default function Home() {
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
-          <a href="https://github.com/vercel/next.js/tree/master/examples" className={styles.card}>
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <a href="https://tailwindcss.com/docs" className={styles.card}>
+            <h2>Tailwind &rarr;</h2>
+            <p>Find in-depth information about Tailwindcss features and usages.</p>
           </a>
 
           <a
